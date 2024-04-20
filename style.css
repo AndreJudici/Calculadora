@@ -1,3 +1,14 @@
 body {
     font-size: 15pt;
+    background: skyblue;
+    text-align: center;
+}
+
+img {
+  width: 90%;
+}
+
+.p2 {
+  color: red;
+  text-align: left;
 }
